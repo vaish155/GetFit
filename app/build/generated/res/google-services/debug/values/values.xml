@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">937264134426-3fkjibr8v7auj8qcvurrmb7624bci4pt.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">937264134426</string>
+    <string name="google_api_key" translatable="false">AIzaSyBA5oBaFvgEvf763aWV0ouXn4woJ4jfqsE</string>
+    <string name="google_app_id" translatable="false">1:937264134426:android:99e271d36c358c2cb7d4a3</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBA5oBaFvgEvf763aWV0ouXn4woJ4jfqsE</string>
+    <string name="google_storage_bucket" translatable="false">getfit-ec56d.appspot.com</string>
+    <string name="project_id" translatable="false">getfit-ec56d</string>
+</resources>
